@@ -1,0 +1,45 @@
+
+
+
+
+                    NODE JS / EXPRESS - SERVER SIDE TECHNOLOGY
+-----------------------------------------------------------------------------------------------------------------
+
+
+
+
+                    BASIC COMMANDS
+                 -------------------
+
+ 1. TO CREATE PACKAGE.JSON - npm init
+
+ 2. install EXPRESS  -   npm i express
+
+ 3. install nodemon - npm i -g nodemon
+
+ 4. to run server  - node index.js 
+
+
+
+
+
+
+                        BASIC CONCEPTS
+        ----------------------------------------------
+
+   1. create a folder
+
+   2. create package.json
+
+   3. create index.js file
+
+   4. install express
+
+   5. import express in index.js
+
+   6. create app using express                                        
+
+   7. define port number for server app
+
+   8. install nodemon
+
